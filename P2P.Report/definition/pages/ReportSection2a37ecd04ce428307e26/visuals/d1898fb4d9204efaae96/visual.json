@@ -1,0 +1,38 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/1.6.0/schema.json",
+  "name": "d1898fb4d9204efaae96",
+  "position": {
+    "x": 406.4321608040201,
+    "y": 473.96984924623115,
+    "z": 3000,
+    "height": 125.42713567839195,
+    "width": 249.64824120603012,
+    "tabOrder": 3000
+  },
+  "visual": {
+    "visualType": "tableEx",
+    "query": {
+      "queryState": {
+        "Values": {
+          "projections": [
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Model Info"
+                    }
+                  },
+                  "Property": "LastRefresh"
+                }
+              },
+              "queryRef": "Model Info.LastRefresh",
+              "nativeQueryRef": "LastRefresh"
+            }
+          ]
+        }
+      }
+    },
+    "drillFilterOtherVisuals": true
+  }
+}

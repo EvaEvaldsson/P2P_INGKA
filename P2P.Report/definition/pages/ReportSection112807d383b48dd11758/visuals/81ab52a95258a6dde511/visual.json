@@ -1,0 +1,162 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/1.6.0/schema.json",
+  "name": "81ab52a95258a6dde511",
+  "position": {
+    "x": 55.249695493300855,
+    "y": 89.451887941534721,
+    "z": 0,
+    "height": 226.26065773447016,
+    "width": 772.61875761266754,
+    "tabOrder": 0
+  },
+  "visual": {
+    "visualType": "textbox",
+    "objects": {
+      "general": [
+        {
+          "properties": {
+            "paragraphs": [
+              {
+                "textRuns": [
+                  {
+                    "value": "This report supports in improving the measurements "
+                  },
+                  {
+                    "value": "PO Compliance",
+                    "textStyle": {
+                      "fontWeight": "bold"
+                    }
+                  },
+                  {
+                    "value": ", "
+                  },
+                  {
+                    "value": "Invoice Matching",
+                    "textStyle": {
+                      "fontWeight": "bold"
+                    }
+                  },
+                  {
+                    "value": ", "
+                  },
+                  {
+                    "value": "No of Suppliers Used",
+                    "textStyle": {
+                      "fontWeight": "bold"
+                    }
+                  },
+                  {
+                    "value": " and "
+                  },
+                  {
+                    "value": "Pay on Time",
+                    "textStyle": {
+                      "fontWeight": "bold"
+                    }
+                  },
+                  {
+                    "value": " by finding opportunities and potentials on Country, Business Unit, Legal Unit or Supplier level. "
+                  }
+                ]
+              },
+              {
+                "textRuns": [
+                  {
+                    "value": "The report also supports in understanding the development of "
+                  },
+                  {
+                    "value": "Invoiced Amount",
+                    "textStyle": {
+                      "fontWeight": "bold"
+                    }
+                  },
+                  {
+                    "value": " for specific Suppliers, Countries, Business Unit and Legal Unit."
+                  }
+                ]
+              },
+              {
+                "textRuns": [
+                  {
+                    "value": ""
+                  }
+                ]
+              },
+              {
+                "textRuns": [
+                  {
+                    "value": "Examples of possibilities:",
+                    "textStyle": {
+                      "fontWeight": "bold"
+                    }
+                  }
+                ]
+              },
+              {
+                "textRuns": [
+                  {
+                    "value": ""
+                  }
+                ]
+              },
+              {
+                "textRuns": [
+                  {
+                    "value": "Monitor and understand the status and development of the measurements PO Compliance, Invoice Matching, No of Suppliers Used and Pay on Time within your scope ("
+                  },
+                  {
+                    "value": "ie. Which Country, Business Unit Group, Legal Unit, Business Unit Code Name or Supplier is having high potentials to move PO Compliance",
+                    "textStyle": {
+                      "fontStyle": "italic"
+                    }
+                  },
+                  {
+                    "value": ")."
+                  }
+                ],
+                "listType": "bullet"
+              },
+              {
+                "textRuns": [
+                  {
+                    "value": "Monitor the development of Invoiced Amount and compare between years to identify unusual increases/ decreases within your scope."
+                  }
+                ],
+                "listType": "bullet"
+              },
+              {
+                "textRuns": [
+                  {
+                    "value": "Benchmark measurements between countries or units to increase best knowledge-sharing between these."
+                  }
+                ],
+                "listType": "bullet"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "visualContainerObjects": {
+      "background": [
+        {
+          "properties": {
+            "color": {
+              "solid": {
+                "color": {
+                  "expr": {
+                    "ThemeDataColor": {
+                      "ColorId": 0,
+                      "Percent": 0
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      ]
+    },
+    "drillFilterOtherVisuals": true
+  }
+}

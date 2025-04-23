@@ -1,0 +1,38 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/1.6.0/schema.json",
+  "name": "fb44f3186c61a14981fc",
+  "position": {
+    "x": 854.5529466357309,
+    "y": 682.73002320185617,
+    "z": 6000,
+    "height": 31.93169373549884,
+    "width": 339.0841763341067,
+    "tabOrder": 6000
+  },
+  "visual": {
+    "visualType": "textbox",
+    "objects": {
+      "general": [
+        {
+          "properties": {
+            "paragraphs": [
+              {
+                "textRuns": [
+                  {
+                    "value": "procurementbusiness.navigation.se@ikea.com",
+                    "textStyle": {
+                      "fontSize": "14px",
+                      "color": "#3257a8"
+                    },
+                    "url": "mailto:procurementbusiness.navigation.se@ikea.com"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "drillFilterOtherVisuals": true
+  }
+}

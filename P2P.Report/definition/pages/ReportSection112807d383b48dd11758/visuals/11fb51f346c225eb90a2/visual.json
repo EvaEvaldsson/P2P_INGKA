@@ -1,0 +1,38 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/1.6.0/schema.json",
+  "name": "11fb51f346c225eb90a2",
+  "position": {
+    "x": 55.249695493300855,
+    "y": 686.67478684531068,
+    "z": 3000,
+    "height": 28.063337393422657,
+    "width": 406.04141291108408,
+    "tabOrder": 3000
+  },
+  "visual": {
+    "visualType": "textbox",
+    "objects": {
+      "general": [
+        {
+          "properties": {
+            "paragraphs": [
+              {
+                "textRuns": [
+                  {
+                    "value": "Procurement in Ingka - Training Corner",
+                    "textStyle": {
+                      "fontSize": "9pt",
+                      "color": "#3257a8"
+                    },
+                    "url": "https://iweof.sharepoint.com/sites/prod/ims/SitePages/BI_Training_Corner.aspx"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "drillFilterOtherVisuals": true
+  }
+}

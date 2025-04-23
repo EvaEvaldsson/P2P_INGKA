@@ -1,0 +1,37 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/1.6.0/schema.json",
+  "name": "1691e637778a2d9facb0",
+  "position": {
+    "x": 496.37028014616322,
+    "y": 686.67478684531068,
+    "z": 2000,
+    "height": 28.063337393422657,
+    "width": 331.49817295980512,
+    "tabOrder": 2000
+  },
+  "visual": {
+    "visualType": "textbox",
+    "objects": {
+      "general": [
+        {
+          "properties": {
+            "paragraphs": [
+              {
+                "textRuns": [
+                  {
+                    "value": "Procurement BI Service Desk",
+                    "textStyle": {
+                      "fontSize": "9pt"
+                    },
+                    "url": "https://jira.digital.ingka.com/servicedesk/customer/portal/444"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "drillFilterOtherVisuals": true
+  }
+}

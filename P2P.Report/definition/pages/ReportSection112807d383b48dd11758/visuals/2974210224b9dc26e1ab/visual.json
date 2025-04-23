@@ -1,0 +1,165 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/1.6.0/schema.json",
+  "name": "2974210224b9dc26e1ab",
+  "position": {
+    "x": 853.03180212014138,
+    "y": 352.791519434629,
+    "z": 1000,
+    "height": 295.80212014134275,
+    "width": 418.82685512367493,
+    "tabOrder": 1000
+  },
+  "visual": {
+    "visualType": "textbox",
+    "objects": {
+      "general": [
+        {
+          "properties": {
+            "paragraphs": [
+              {
+                "textRuns": [
+                  {
+                    "value": "PO Compliance",
+                    "textStyle": {
+                      "fontWeight": "bold"
+                    }
+                  },
+                  {
+                    "value": ", "
+                  },
+                  {
+                    "value": "Invoice Matching",
+                    "textStyle": {
+                      "fontWeight": "bold"
+                    }
+                  },
+                  {
+                    "value": ", "
+                  },
+                  {
+                    "value": "No of suppliers used",
+                    "textStyle": {
+                      "fontWeight": "bold"
+                    }
+                  }
+                ]
+              },
+              {
+                "textRuns": [
+                  {
+                    "value": "See "
+                  },
+                  {
+                    "value": "Metric explanations",
+                    "textStyle": {
+                      "color": "#252423"
+                    },
+                    "url": "https://iweof.sharepoint.com/:b:/r/teams/o365g_epsstest_retatso/Site%20documents/Procurement%20Metrics%20definitions%20FY25%20Publish.pdf?csf=1&web=1&e=vOK8zn"
+                  }
+                ]
+              },
+              {
+                "textRuns": [
+                  {
+                    "value": ""
+                  }
+                ]
+              },
+              {
+                "textRuns": [
+                  {
+                    "value": "PO Compliance Adjusted",
+                    "textStyle": {
+                      "fontWeight": "bold"
+                    }
+                  }
+                ]
+              },
+              {
+                "textRuns": [
+                  {
+                    "value": "PO Compliance where the first 3 months after Go-Live in SAP (BOT Core or PBC) for each legal unit is not included in the calculation."
+                  }
+                ]
+              },
+              {
+                "textRuns": [
+                  {
+                    "value": ""
+                  }
+                ]
+              },
+              {
+                "textRuns": [
+                  {
+                    "value": "Invoice Matching Adjusted",
+                    "textStyle": {
+                      "fontWeight": "bold"
+                    }
+                  }
+                ]
+              },
+              {
+                "textRuns": [
+                  {
+                    "value": "Invoice Matching where the first 3 months after Go-Live in SAP (BOT Core or PBC) for each legal unit is not included in the calculation."
+                  }
+                ]
+              },
+              {
+                "textRuns": [
+                  {
+                    "value": ""
+                  }
+                ]
+              },
+              {
+                "textRuns": [
+                  {
+                    "value": "Ingka Procurement accounts",
+                    "textStyle": {
+                      "fontWeight": "bold",
+                      "color": "#000000"
+                    }
+                  }
+                ]
+              },
+              {
+                "textRuns": [
+                  {
+                    "value": "Refer to the ",
+                    "textStyle": {
+                      "color": "#000000"
+                    }
+                  },
+                  {
+                    "value": "​",
+                    "textStyle": {
+                      "color": "#000000"
+                    },
+                    "url": "https://accounting%20database/"
+                  },
+                  {
+                    "value": "Accounting Database",
+                    "textStyle": {
+                      "textDecoration": "underline",
+                      "color": "#252423"
+                    },
+                    "url": "https://iweof.sharepoint.com/sites/sup/acc/SitePages/IKEAWANSAccountingDatabase.aspx?xsdata=MDV8MDJ8Y2hhbmRhbmF0YW5kYWdhLnN1cmVzaEBpbmdrYS5pa2VhLmNvbXxiMmFhYWY3Y2I5N2E0ZDdiZjAxOTA4ZGM5NGZhMWM4YXw3MjBiNjM3YTY1NWE0MGNmODE2YWYyMmY0MDc1NWMyY3wwfDB8NjM4NTQ5MDQ5MTQ2NjAwMDAwfFVua25vd258VFdGcGJHWnNiM2Q4ZXlKV0lqb2lNQzR3TGpBd01EQWlMQ0pRSWpvaVYybHVNeklpTENKQlRpSTZJazFoYVd3aUxDSlhWQ0k2TW4wPXwwfHx8&sdata=NHpoMkZZUVJoc3ZMN003UEZoSjNTc05BOFJZbDYrL041d3JiN2RoSXBZWT0%3d"
+                  },
+                  {
+                    "value": " to find which Ingka Procurement accounts are included",
+                    "textStyle": {
+                      "color": "#000000"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "drillFilterOtherVisuals": true
+  }
+}

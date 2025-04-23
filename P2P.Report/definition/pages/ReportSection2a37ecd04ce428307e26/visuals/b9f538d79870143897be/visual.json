@@ -1,0 +1,75 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/1.6.0/schema.json",
+  "name": "b9f538d79870143897be",
+  "position": {
+    "x": 10,
+    "y": 247,
+    "z": 1000,
+    "height": 214,
+    "width": 1250,
+    "tabOrder": 1000
+  },
+  "visual": {
+    "visualType": "lineChart",
+    "query": {
+      "queryState": {
+        "Category": {
+          "projections": [
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Date"
+                    }
+                  },
+                  "Property": "FY Year"
+                }
+              },
+              "queryRef": "Date.FY Year",
+              "nativeQueryRef": "FY Year",
+              "active": true
+            }
+          ]
+        },
+        "Series": {
+          "projections": [
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Date"
+                    }
+                  },
+                  "Property": "FY Month Name"
+                }
+              },
+              "queryRef": "Date.FY Month Name",
+              "nativeQueryRef": "FY Month Name"
+            }
+          ]
+        },
+        "Y": {
+          "projections": [
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Measurements"
+                    }
+                  },
+                  "Property": "Invoiced Amount EUR"
+                }
+              },
+              "queryRef": "Measurements.Invoiced Amount EUR",
+              "nativeQueryRef": "Invoiced Amount EUR"
+            }
+          ]
+        }
+      }
+    },
+    "drillFilterOtherVisuals": true
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/1.6.0/schema.json",
+  "name": "0d6da47b6415bb8e8f09",
+  "position": {
+    "x": 10.20618556701031,
+    "y": 0,
+    "z": 0,
+    "height": 711.64948453608247,
+    "width": 1261.8556701030927,
+    "tabOrder": 0
+  },
+  "visual": {
+    "visualType": "textbox",
+    "objects": {
+      "general": [
+        {
+          "properties": {
+            "paragraphs": [
+              {
+                "textRuns": [
+                  {
+                    "value": "2024-05-27\tEVLD\tUpdated P2P report with new Information Page, Supplier UDL and Invoice UDL. Removed Clear Filter button on all pages. Added Adjusted KPI measure in Ordering Country Adjusted. Added Source System filter, SAP Account Number. Removed Company Function Group Name filter, Layout improvements and renamed the report to P2P. For more information, see Jira ticket BIP-443."
+                  }
+                ]
+              },
+              {
+                "textRuns": [
+                  {
+                    "value": "CHUSR2 - 24 June '24 -  No of supplier used is removed from all views. Sheet \"No of Supplier Used\" hidden."
+                  }
+                ]
+              },
+              {
+                "textRuns": [
+                  {
+                    "value": "CHSUR2 - 24 June '24 -  Invoiced Amount v2 excluded."
+                  }
+                ]
+              },
+              {
+                "textRuns": [
+                  {
+                    "value": "CHSUR2 - 24 June '24 - \""
+                  },
+                  {
+                    "value": "Ordering Country Analysis\" - removed field \"No. of suppliers used last 12 whole months\"",
+                    "textStyle": {
+                      "fontSize": "13.3333px"
+                    }
+                  }
+                ]
+              },
+              {
+                "textRuns": [
+                  {
+                    "value": "CHSUR2 - 24 June '24 - \"Ordering Country Analysis - Adjusted\" - removed field \"No. of suppliers used last 12 whole months\"",
+                    "textStyle": {
+                      "fontSize": "13.3333px"
+                    }
+                  }
+                ]
+              },
+              {
+                "textRuns": [
+                  {
+                    "value": "2024-09-02 "
+                  },
+                  {
+                    "value": "Launched SAP BOT Core and PBC data into this report.",
+                    "textStyle": {
+                      "fontSize": "13.3333px"
+                    }
+                  }
+                ]
+              },
+              {
+                "textRuns": [
+                  {
+                    "value": "2024-09-05 Corrected the buttons on Supplier Usage page // EVLD",
+                    "textStyle": {
+                      "fontSize": "13.3333px"
+                    }
+                  }
+                ]
+              },
+              {
+                "textRuns": [
+                  {
+                    "value": "2024-11-11 Updated link to ",
+                    "textStyle": {
+                      "fontSize": "13.3333px"
+                    }
+                  },
+                  {
+                    "value": "Procurement Metrics definitions FY25 Publish.pdf",
+                    "textStyle": {},
+                    "url": "https://iweof.sharepoint.com/:b:/r/teams/o365g_epsstest_retatso/Site%20documents/Procurement%20Metrics%20definitions%20FY25%20Publish.pdf?csf=1&web=1&e=vOK8zn"
+                  },
+                  {
+                    "value": " on Information Page //EVLD"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "drillFilterOtherVisuals": true
+  }
+}
